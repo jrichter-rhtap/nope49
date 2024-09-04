@@ -15,7 +15,7 @@ Before you begin creating an application with this `devfile` code sample, it's h
 ## License
 
 This stack is licensed under the [EPL 2.0](./LICENSE) license.
-
+1
 ### Additional resources
 * For more information about Node.js, see [How do I start with Node.js after I installed it?](https://nodejs.org/en/docs/guides/getting-started-guide).
 * For more information about devfiles, see [Devfile.io](https://devfile.io/).
